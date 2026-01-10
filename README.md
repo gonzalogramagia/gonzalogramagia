@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Gonza! 👋
 
-<!--
-**gonzalogramagia/gonzalogramagia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support Specialist & Full Stack Developer**
 
-Here are some ideas to get you started:
+I’m a tech enthusiast who loves solving problems, whether it’s helping users with technical issues or building a web app. I’m always looking for ways to make systems more secure and reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ The Journey So Far
+
+- 🎯 **Active Training** — *Currently working through **[TryHackMe](https://gonzalogramagia.com/blog/advent-of-cyber-2025)** machines and **[Codeforces](https://gonzalogramagia.com/blog/codeforces-journey)** challenges*
+- 🛡 **[B.S. in Cyberdefense (UNDEF)](https://undef.edu.ar/fadena/carreras-de-grado/licciberdefensa/)** — *In Progress*
+- 🚀 **[Freelance Full Stack Developer](https://gonzalogramagia.com/work/full-stack-developer)** — Worked with clients to design and develop full stack web applications
+- 🎓 **[B.S. in Computer Science (FAMAF UNC)](https://famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/)** — Completed first year
+- 💻 **Web Development Training** — Studied full stack development on **[Scrimba](https://scrimba.com/)** and **[Boot.dev](https://boot.dev/u/gonza)**
+- 📜 **Google Certificates**: **[IT Support](https://coursera.org/account/accomplishments/professional-cert/2U2F6SMQXZN5)** & **[Cybersecurity](https://coursera.org/account/accomplishments/specialization/5SEJBLSXBQT5)**
+
+---
+
+### 📫 Get in Touch
+
+**[LinkedIn](https://linkedin.com/in/gonzalogramagia)**
+|
+**[Book a Call](https://cal.com/gonza)**
