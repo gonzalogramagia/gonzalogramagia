@@ -13,6 +13,7 @@ I’m a tech enthusiast who loves solving problems, whether it’s helping users
 - 🚀 **[Freelance Full Stack Developer](https://gonzalogramagia.com/work/full-stack-developer)** — Worked with clients to design and develop full stack web applications
 - 🎓 **[B.S. in Computer Science (FAMAF UNC)](https://famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/)** — Completed first year
 - 💻 **Web Development Training** — Studied full stack development on **[Scrimba](https://scrimba.com/)** and **[Boot.dev](https://boot.dev/u/gonza)**
+- 🧪 **[Help Desk Specialist](https://gonzalogramagia.com/work/help-desk-specialist)** — Worked at Stämm Biotech
 - 📜 **Google Certificates**: **[IT Support](https://coursera.org/account/accomplishments/professional-cert/2U2F6SMQXZN5)** & **[Cybersecurity](https://coursera.org/account/accomplishments/specialization/5SEJBLSXBQT5)**
 
 ---
