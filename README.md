@@ -18,6 +18,10 @@ I’m a tech enthusiast who loves solving problems, whether it’s helping users
 
 ---
 
+[<img src="https://tryhackme-badges.s3.amazonaws.com/ciberportero.png" alt="Gonzalo Gramaglia" />](https://tryhackme.com/p/ciberportero)
+
+---
+
 ### 📫 Get in Touch
 
 **[LinkedIn](https://linkedin.com/in/gonzalogramagia)**
